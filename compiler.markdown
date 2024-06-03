@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Compiler Project
+title: Compiler 
 parent: Projects
 nav_order: 2
 ---
