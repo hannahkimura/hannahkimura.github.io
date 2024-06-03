@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Express Pantry
-parent: Projects
+parent: RESEARCH/PROJECTS
 nav_order: 3
 ---
 
