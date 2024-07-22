@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Mondegreens
-parent: Projects
-nav_order: 1
+parent: RESEARCH/PROJECTS
+nav_order: 4
 ---
 
 Details to come...

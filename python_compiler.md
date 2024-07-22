@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Python Tools for Developing Programming Languages
-parent: Projects
-nav_order: 5
+parent: RESEARCH/PROJECTS
+nav_order: 2
 ---
